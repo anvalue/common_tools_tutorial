@@ -1,0 +1,7 @@
+/home/orangepi/project/sq_test/matplotlib/build/CMakeFiles/matplotlib_demo.dir
+/home/orangepi/project/sq_test/matplotlib/build/CMakeFiles/edit_cache.dir
+/home/orangepi/project/sq_test/matplotlib/build/CMakeFiles/rebuild_cache.dir
+/home/orangepi/project/sq_test/matplotlib/build/CMakeFiles/list_install_components.dir
+/home/orangepi/project/sq_test/matplotlib/build/CMakeFiles/install.dir
+/home/orangepi/project/sq_test/matplotlib/build/CMakeFiles/install/local.dir
+/home/orangepi/project/sq_test/matplotlib/build/CMakeFiles/install/strip.dir
